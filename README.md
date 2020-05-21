@@ -7,6 +7,8 @@
 ## Description
 The present project seeks to design both software and hardware for a communication system based on facial recognition In this design, the use of ACAT and an infrared sensor connected by USB or Jack to the computer will be incorporated to obtain the necessary information that through an algorithm would serve as means of selecting the appropriate actions to obtain as output the message to be transmitted.
 
+![alphabet](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/alphabet.PNG)
+
 <a name="item2"></a>
 ## Contents
 - [Description](#item1)
@@ -29,7 +31,7 @@ The present project seeks to design both software and hardware for a communicati
 
 Once the acquired data has been conditioned, the signal is digitized by means of a microprocessor which is the ATMEGA 328p. The selection of the microprocessor was made based on the type of signal acquired and also the USART communication is required to send the data to The software ACAT.
 
-![328P](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/328.jpg)
+![328P](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/328P.jpg)
 
 ### Infrared Sensor TCRT5000
 
@@ -65,7 +67,9 @@ From the stage of hardware design the following circuit was obtained.
 
 ![result](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/result1.PNG)
 
+![result](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/result2.PNG)
 
+![result](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/result3.PNG)
 
 <a name="item5"></a>
 ## Contributing

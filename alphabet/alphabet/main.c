@@ -1,5 +1,5 @@
 /*
- * alfabeto.c
+ * alphabet.c
  *
  * Created: 15/02/2017 11:38:20
  * Author : jazzr
