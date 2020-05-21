@@ -5,6 +5,7 @@
 
 <a name="item1"></a>
 ## Description
+
 The present project seeks to design both software and hardware for a communication system based on facial recognition In this design, the use of ACAT and an infrared sensor connected by USB or Jack to the computer will be incorporated to obtain the necessary information that through an algorithm would serve as means of selecting the appropriate actions to obtain as output the message to be transmitted.
 
 ![alphabet](https://github.com/FreakJazz/COMMUNICATION-PROTOTYPE-FOR-PEOPLE-WITH-ENGINE-NEURON-DISEASES-ACAT-/blob/master/images/alphabet.PNG)
